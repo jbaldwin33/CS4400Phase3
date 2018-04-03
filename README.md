@@ -1,2 +1,2 @@
 # CS4400Phase3
-GUI Application for Database
+Code for our database's GUI Application
